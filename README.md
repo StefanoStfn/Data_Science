@@ -1,6 +1,6 @@
-# Deep_Learning
-Deep Learning Project Repository
+# Data Science
 
-Here some Deep learning solutions are presented to handle [Kaggle](https://www.kaggle.com/) User's datasets:
+Project Repository
 
-Regressions, Classifications, Semantic segmentations and so on
+Here some studies are presented to handle [Kaggle](https://www.kaggle.com/) users's datasets:
+
